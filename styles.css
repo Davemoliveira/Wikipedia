@@ -1,0 +1,79 @@
+*{
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: consolas;
+}
+
+resultsPage{
+  background-image: url('bkg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#logo{
+    width:250px;
+
+}
+
+#path{
+    text-align: center;
+
+}
+
+#btn{
+    text-align: center;
+
+}
+
+#searchBox{
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container{
+  padding-top: 300px;
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+ }
+
+p{
+    font-size: 15px;
+    font-family: consolas;
+    text-align: justify;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: consolas;
+    text-align: center;
+}
+
+pre {
+    font-size: 0.7rem;
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+#rst{
+    padding-top:300px;
+
+}
+
+#fcr{
+    width: 50%;
+
+}
+
+.searchBox{
+    padding-left: 33%;
+
+}
+
+
+
